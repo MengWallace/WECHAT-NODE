@@ -1,0 +1,20 @@
+{
+  "name": "WECHAT-NODE",
+  "version": "1.0.0",
+  "description": "WE DEVELOP WECHAT BY NODEJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MengWallace/WECHAT-NODE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MengWallace/WECHAT-NODE/issues"
+  },
+  "homepage": "https://github.com/MengWallace/WECHAT-NODE#readme"
+}
